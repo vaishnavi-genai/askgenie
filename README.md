@@ -1,49 +1,65 @@
-# AskGenie 🤖
+# 🤖 AskGenie
 
-**AskGenie** is an AI-powered assistant built using **Python**, **Jupyter Notebook**, and **OpenAI's API**.
-
-It was developed as part of the IBM Generative AI Engineering Professional Certificate program.
+AskGenie is a Generative AI-powered assistant built using Python and prompt engineering techniques. It demonstrates how simple prompt-based automation can interact with users and generate intelligent responses using basic logic and inputs.
 
 ---
 
-## 🚀 Features
+## 🧠 Features
 
-- 🧠 Chat-style prompt interaction
-- 🧾 Ask Python code explanations
-- 🖼️ Generate AI-based images from text
-- 🛠️ Learn prompt engineering basics
-
----
-
-## 📸 Screenshot
-
-![AskGenie Screenshot](LINK_TO_IMAGE)
+- AI assistant behavior with Python logic
+- Prompts user for questions or tasks
+- Uses GenAI-style design with basic control structures
+- Great beginner-friendly project to showcase prompt engineering skills
 
 ---
 
-## 📚 Technologies Used
+## 🚀 Tools & Technologies
 
-- Python
-- OpenAI API
-- Jupyter Notebook
-- IBM Generative AI & Python (Coursera)
-
----
-
-## 📂 Project Structure
-
-- `AskGenie.ipynb` – Main notebook
-- `README.md` – Project overview
+- 🐍 Python (Basics & Data Structures)
+- 🧠 Generative AI Concepts
+- 🛠️ Prompt Engineering (IBM's methodology)
+- 📓 Jupyter Notebook / Google Colab
+- 💻 Git & GitHub for version control
 
 ---
 
-## ✅ How to Run
+## 📸 Preview
 
-1. Clone this repo
-2. Open in Jupyter Notebook
-3. Add your OpenAI API key
-4. Start running cells and ask questions!
+![AskGenie Screenshot](AskGenie%20Screenshot.png)
 
 ---
 
-> ✨ Feel free to fork and enhance the project!
+## 📂 How to Run
+
+1. Open the notebook in Google Colab or Jupyter Notebook  
+2. Run all cells one by one  
+3. Interact with AskGenie via the prompt-based input  
+4. Modify or extend the assistant logic as needed  
+
+---
+
+## 📌 Project Background
+
+This project was created as part of the IBM GenAI Engineering Professional Certificate. It combines early knowledge of Python and AI fundamentals with hands-on notebook development and GitHub integration.
+
+---
+
+## ✨ Future Ideas
+
+- Add OpenAI API or other LLMs to extend capabilities  
+- Build a web interface with Gradio or Streamlit  
+- Add memory or context-based reply chains  
+- Convert it to a chatbot  
+
+---
+
+## 👤 Author
+
+**Vaishnavi Roy**  
+🎓 IBM GenAI Engineering (in progress)  
+📘 Python + AI Foundations  
+🌐 [LinkedIn](https://www.linkedin.com/in/vaishnavi-roy-75435a278)
+
+---
+
+⭐ If you found this helpful, feel free to star the repo!
