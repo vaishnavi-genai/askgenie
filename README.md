@@ -1,65 +1,53 @@
-# 🤖 AskGenie
+# AskGenie 🤖✨  
+Your Personal AI-Powered Assistant in a Notebook
 
-AskGenie is a Generative AI-powered assistant built using Python and prompt engineering techniques. It demonstrates how simple prompt-based automation can interact with users and generate intelligent responses using basic logic and inputs.
-
----
-
-## 🧠 Features
-
-- AI assistant behavior with Python logic
-- Prompts user for questions or tasks
-- Uses GenAI-style design with basic control structures
-- Great beginner-friendly project to showcase prompt engineering skills
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vaishnavi-genai/askgenie/blob/main/AskGenie.ipynb)
 
 ---
 
-## 🚀 Tools & Technologies
-
-- 🐍 Python (Basics & Data Structures)
-- 🧠 Generative AI Concepts
-- 🛠️ Prompt Engineering (IBM's methodology)
-- 📓 Jupyter Notebook / Google Colab
-- 💻 Git & GitHub for version control
-
----
-
-## 📸 Preview
+## 🔍 Preview
 
 ![AskGenie Screenshot](AskGenie%20Screenshot.png)
 
 ---
 
-## 📂 How to Run
-
-1. Open the notebook in Google Colab or Jupyter Notebook  
-2. Run all cells one by one  
-3. Interact with AskGenie via the prompt-based input  
-4. Modify or extend the assistant logic as needed  
-
----
-
-## 📌 Project Background
-
-This project was created as part of the IBM GenAI Engineering Professional Certificate. It combines early knowledge of Python and AI fundamentals with hands-on notebook development and GitHub integration.
+## 💡 Features
+- Ask natural questions and get intelligent answers
+- Powered by Hugging Face Inference API
+- Simple Jupyter/Colab UI – no coding required
+- Fast, responsive and beginner-friendly
 
 ---
 
-## ✨ Future Ideas
+## 🚀 How to Use
 
-- Add OpenAI API or other LLMs to extend capabilities  
-- Build a web interface with Gradio or Streamlit  
-- Add memory or context-based reply chains  
-- Convert it to a chatbot  
+1. Click the **“Open in Colab”** button above  
+2. Wait for the notebook to load  
+3. Click **Runtime > Run All**  
+4. Enter your question in the input field  
+5. View AskGenie’s response instantly!
+
+---
+
+## 🛠️ Built With
+- **Python**
+- **Jupyter Notebook**
+- **Hugging Face Transformers**
+- **Google Colab**
+- **ChatGPT (used previously)**
+- **MS Office (for documentation and planning)**
 
 ---
 
 ## 👤 Author
 
 **Vaishnavi Roy**  
-🎓 IBM GenAI Engineering (in progress)  
-📘 Python + AI Foundations  
-🌐 [LinkedIn](https://www.linkedin.com/in/vaishnavi-roy-75435a278)
+_MBA Student | AI Developer | Building AskGenie_  
+🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavi-roy-75435a278)  
+📁 [GitHub](https://github.com/vaishnavi-genai)
 
 ---
 
-⭐ If you found this helpful, feel free to star the repo!
+## 📄 License
+This project is open-sourced under the [MIT License](LICENSE).
+
